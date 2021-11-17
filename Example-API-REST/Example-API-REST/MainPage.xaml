@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Example_API_REST.MainPage">
+
+    <StackLayout Padding="12,12,12,12"  Margin="0" Spacing="6" BackgroundColor="#393E46">
+        <Label Text="REST API with JWT 
+               Authentication" Margin="0,0,0,0"
+               FontSize="30"
+               HorizontalTextAlignment="Center"
+               TextColor="White"
+               BackgroundColor="#222831"
+               FontAttributes="Italic"
+               HorizontalOptions="CenterAndExpand"/>
+        <ListView x:Name="ListDemo" BackgroundColor="#222831" SeparatorColor="#EEEEEE">
+            <ListView.ItemTemplate>
+                <DataTemplate>
+                    <TextCell Text="{Binding name}" Detail="{Binding price}"  DetailColor="#FD7014" TextColor="#EEEEEE" />
+                </DataTemplate>
+            </ListView.ItemTemplate>
+            <ListView.Header>
+                <StackLayout Orientation="Horizontal" HorizontalOptions="CenterAndExpand">
+                    <Label
+                    Margin="10"
+                    FontSize="15"
+                    TextColor="White"
+                    HorizontalTextAlignment="Center"
+                    Text="All Products">
+                        <Label.GestureRecognizers>
+                            
+                        </Label.GestureRecognizers>
+                    </Label>
+                </StackLayout>
+            </ListView.Header>
+        </ListView>
+        <Button Text="Get All Products" Clicked="Button_Clicked" CornerRadius="66" 
+          TextColor="White"      
+          BorderColor="White"
+          BackgroundColor="#FD7014"
+          BorderWidth="0.5"/>
+    </StackLayout>
+</ContentPage>

@@ -1,0 +1,14 @@
+D:\Xamarin WorkSpace\Example-API-REST\Example-API-REST\Example-API-REST\Example-API-REST\bin\Debug\netstandard2.0\Example-API-REST.deps.json
+D:\Xamarin WorkSpace\Example-API-REST\Example-API-REST\Example-API-REST\Example-API-REST\bin\Debug\netstandard2.0\Example-API-REST.dll
+D:\Xamarin WorkSpace\Example-API-REST\Example-API-REST\Example-API-REST\Example-API-REST\bin\Debug\netstandard2.0\ref\Example-API-REST.dll
+D:\Xamarin WorkSpace\Example-API-REST\Example-API-REST\Example-API-REST\Example-API-REST\bin\Debug\netstandard2.0\Example-API-REST.pdb
+D:\Xamarin WorkSpace\Example-API-REST\Example-API-REST\Example-API-REST\Example-API-REST\obj\Debug\netstandard2.0\Example-API-REST.csprojAssemblyReference.cache
+D:\Xamarin WorkSpace\Example-API-REST\Example-API-REST\Example-API-REST\Example-API-REST\obj\Debug\netstandard2.0\App.xaml.g.cs
+D:\Xamarin WorkSpace\Example-API-REST\Example-API-REST\Example-API-REST\Example-API-REST\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+D:\Xamarin WorkSpace\Example-API-REST\Example-API-REST\Example-API-REST\Example-API-REST\obj\Debug\netstandard2.0\Example-API-REST.AssemblyInfoInputs.cache
+D:\Xamarin WorkSpace\Example-API-REST\Example-API-REST\Example-API-REST\Example-API-REST\obj\Debug\netstandard2.0\Example-API-REST.AssemblyInfo.cs
+D:\Xamarin WorkSpace\Example-API-REST\Example-API-REST\Example-API-REST\Example-API-REST\obj\Debug\netstandard2.0\Example-API-REST.csproj.CoreCompileInputs.cache
+D:\Xamarin WorkSpace\Example-API-REST\Example-API-REST\Example-API-REST\Example-API-REST\obj\Debug\netstandard2.0\XamlC.stamp
+D:\Xamarin WorkSpace\Example-API-REST\Example-API-REST\Example-API-REST\Example-API-REST\obj\Debug\netstandard2.0\Example-API-REST.dll
+D:\Xamarin WorkSpace\Example-API-REST\Example-API-REST\Example-API-REST\Example-API-REST\obj\Debug\netstandard2.0\ref\Example-API-REST.dll
+D:\Xamarin WorkSpace\Example-API-REST\Example-API-REST\Example-API-REST\Example-API-REST\obj\Debug\netstandard2.0\Example-API-REST.pdb
